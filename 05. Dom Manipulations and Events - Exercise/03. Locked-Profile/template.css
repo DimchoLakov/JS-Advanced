@@ -17,8 +17,8 @@ body{
     min-height: 100vh;
     flex-wrap: wrap;
 }
-#main{   
-    background: url(background.png) no-repeat center center;
+#main{
+
     background-size: cover;
     margin-top: 1%; 
 }
